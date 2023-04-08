@@ -168,7 +168,7 @@ header #toggle:after {
     padding: 100px 50px 100px;
   }
   .banner h2 {
-    font-size: 1.8px;
+    font-size: 1.8em;
   }
   .banner .content p,
   .banner .content a {
